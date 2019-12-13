@@ -23,3 +23,21 @@ https://download.csdn.net/download/scaped/10623711
 
       3.博客 https://mp.csdn.net/postedit/81414406
 }
+
+
+下载完源码安装python、django
+https://pip.pypa.io/en/latest/installing/
+
+根据错误提示先后解决
+# coding: utf-8
+PIL 安装
+pip script环境变量配置
+django安装
+最后再本地跑起来了！
+但是，公司的台式机没有摄像头，gg了
+回家用笔记本再操作一遍。
+
+
+系统是win7
+IDE是sublime text
+cmd
