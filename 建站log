@@ -1,0 +1,25 @@
+首先我是从零开始建立这个AI个人网站，建站过程我会逐一记录。
+
+第一步做技术调研，建站需要域名、服务器、还有网站代码
+
+域名和服务器在阿里云很快就可以搞定，所以重点放在网站代码上
+
+虽然阿里云或者腾讯云有上千套源代码可以用，但我想实现自己的一个想法就是建立一个用四种AI方式登录的个人网站。（人脸识别、手势识别、手写识别、语音识别）
+
+希望在登录网站后，实现用户发表文字可以上传区块链。
+
+首先技术调研，看到一篇关于web端人脸识别登录的帖子，准备学习一下。
+https://blog.csdn.net/scaped/article/details/81414406
+
+在csdn发现了这个项目的源码，下载准备研究一下
+https://download.csdn.net/download/scaped/10623711
+
+以下是他得源码使用说明：
+{
+      1.项目使用Django框架，请确保已安装python，Django,项目使用：
+      python manage.py runserver localhost:8000 启动
+
+      2.请在pismap/static/facedata/base中放入用户照片用来比对识别。
+
+      3.博客 https://mp.csdn.net/postedit/81414406
+}
